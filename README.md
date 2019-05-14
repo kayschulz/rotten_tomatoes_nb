@@ -1,1 +1,1 @@
-# rotten_tomatoes_nb
+Perform Multinomial Naive Bayes classification on Rotten Tomato Reviews to predict the freshness score of the movie.
